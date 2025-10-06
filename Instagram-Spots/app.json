@@ -9,8 +9,8 @@
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
      "extra": {
-      "EXPO_PUBLIC_MAPBOX_TOKEN": "pk.eyJ1IjoianRhbm5lcjMiLCJhIjoiY21nZWsxa2IwMDB3ZTJrcHp2Zjg2d2R5NiJ9.ivR4n-cMAgsigSezTdwTgg",
-      "EXPO_PUBLIC_UNSPLASH_KEY": "62-B2nGnFocyma63PT4PMcAVEUjv1nUDR1gxyx7GmdU"
+      "EXPO_PUBLIC_MAPBOX_TOKEN": "API_KEY",
+      "EXPO_PUBLIC_UNSPLASH_KEY": "API_KEY"
     },
     "ios": {
       "supportsTablet": true,
